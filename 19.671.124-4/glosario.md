@@ -1,39 +1,39 @@
 # glosario
 
 a) Control de versiones (VC): Es un sistema que registra cambios en un archivo
-o un conjunto de estos, para asÌ poder recuperar versiones antiguas en el futuro.
+o un conjunto de estos, para as√≠ poder recuperar versiones antiguas en el futuro.
 https://git-scm.com/book/es/v1/Empezando-Acerca-del-control-de-versiones
 
-b) Control de versiones distribuido (DVC). AquÌ el cliente replica el repositorio
+b) Control de versiones distribuido (DVC). Aqu√≠ el cliente replica el repositorio
 completo, de modo que haya una especie de "respaldo" del repositorio por si el un
 servidor falla.
 https://git-scm.com/book/es/v1/Empezando-Acerca-del-control-de-versiones
 
 c) Repositorio remoto y Repositorio local: Los repositorios remotos son versiones
-del proyecto ubicadas en Internet o en un alg˙n punto de la red, en cambio el
+del proyecto ubicadas en Internet o en un alg√∫n punto de la red, en cambio el
 repositorio local son las versiones ubicadas en el ordenador del usuario.
 https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos 
 https://colaboratorio.net/atareao/developer/2017/git-y-github-trabajando-con-repositorios-locales/
 
-d) Copia de trabajo / Working Copy: Es una copia de la ˙ltima versiÛn que se optiene al clonar un
+d) Copia de trabajo / Working Copy: Es una copia de la √∫ltima versi√≥n que se obtiene al clonar un
 repositorio existente.
 https://git-scm.com/book/es/v1/Fundamentos-de-Git-Obteniendo-un-repositorio-Git
 
-e) ¡rea de preparaciÛn: Es un archivo que guarda la informaciÛn sobre lo que ir·
-en el siguiente "commit".////////////////////////////////////////////////////////////
+e) √Årea de preparaci√≥n: Es un archivo que guarda la informaci√≥n sobre lo que ir√°
+en el siguiente "commit".
 https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
 
 f) Preparar cambios: Se modifica un archivo que estaba en seguimiento para luego 
-incluirlo en la confirmaciÛn.
+incluirlo en la confirmaci√≥n.
 https://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio
 
-g) Confirmar cambios: Con el ·rea de preparaciÛn lista, se pueden confirmar los cambios.
+g) Confirmar cambios: Con el √°rea de preparaci√≥n lista, se pueden confirmar los cambios.
 https://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio
 
-h) Commit: Se deja un comentario en la versiÛn a la que se le har· un push.
+h) Commit: Se deja un comentario en la versi√≥n a la que se le har√° un push.
 http://rogerdudler.github.io/git-guide/index.es.html
 
-i) Clone: Se clona el repositorio, se le hace una copia al repositorio en la versiÛn actual.
+i) Clone: Se clona el repositorio, se le hace una copia al repositorio en la versi√≥n actual.
 http://rogerdudler.github.io/git-guide/index.es.html
 
 j) Pull: Se "actualiza" el repositorio local con los cambios subidos al repositorio remoto.
@@ -49,7 +49,7 @@ https://www.atlassian.com/git/tutorials/syncing/git-fetch
 m) Merge: Esta herramienta fusiona una rama con la rama "activa".
 http://rogerdudler.github.io/git-guide/index.es.html
 
-n) Status: Permite ver los estados de los archivos del directorio de trabajo y el ·rea de
+n) Status: Permite ver los estados de los archivos del directorio de trabajo y el √°rea de
 ensayo.
 https://git-scm.com/book/es/v2/Appendix-B%3A-Comandos-de-Git-Seguimiento-B%C3%A1sico
 
